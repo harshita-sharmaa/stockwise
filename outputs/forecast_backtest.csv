@@ -1,0 +1,201 @@
+sku,method,wape,bias,rmse
+SKU-001,Naive,0.2769,-0.2769,19.6935
+SKU-001,Moving average (4w),0.2962,-0.2962,20.8422
+SKU-001,Exp. smoothing,0.2969,-0.2969,20.8856
+SKU-001,Seasonal naive,0.1051,0.1051,7.8422
+SKU-001,Trend + seasonal regression,0.052,-0.0023,3.9849
+SKU-002,Naive,0.1513,0.0084,3.4157
+SKU-002,Moving average (4w),0.1681,0.1092,4.0415
+SKU-002,Exp. smoothing,0.184,0.141,4.4118
+SKU-002,Seasonal naive,0.2773,0.1597,6.6958
+SKU-002,Trend + seasonal regression,0.129,-0.076,3.4619
+SKU-003,Naive,0.3511,-0.0418,28.0193
+SKU-003,Moving average (4w),0.4284,-0.3232,35.0583
+SKU-003,Exp. smoothing,0.4011,-0.2687,33.0085
+SKU-003,Seasonal naive,0.4094,0.0114,34.226
+SKU-003,Trend + seasonal regression,0.3678,0.0186,27.8276
+SKU-004,Naive,0.1881,-0.1193,8.5049
+SKU-004,Moving average (4w),0.1984,-0.1399,8.9104
+SKU-004,Exp. smoothing,0.2071,-0.1546,9.2258
+SKU-004,Seasonal naive,0.2615,-0.1376,12.0485
+SKU-004,Trend + seasonal regression,0.1465,-0.0523,6.6497
+SKU-005,Naive,0.1263,-0.0041,28.0699
+SKU-005,Moving average (4w),0.1245,0.0068,28.0877
+SKU-005,Exp. smoothing,0.1333,-0.0278,28.5145
+SKU-005,Seasonal naive,0.29,-0.2043,59.3843
+SKU-005,Trend + seasonal regression,0.1676,-0.1462,37.555
+SKU-006,Naive,0.2101,0.1765,7.5774
+SKU-006,Moving average (4w),0.1485,0.0672,5.8184
+SKU-006,Exp. smoothing,0.1485,0.0623,5.7701
+SKU-006,Seasonal naive,0.1989,0.1317,7.3541
+SKU-006,Trend + seasonal regression,0.1872,0.1363,7.1274
+SKU-007,Naive,0.0717,-0.0377,12.145
+SKU-007,Moving average (4w),0.0863,-0.0668,14.312
+SKU-007,Exp. smoothing,0.0872,-0.0687,14.4743
+SKU-007,Seasonal naive,0.1142,-0.1094,18.6458
+SKU-007,Trend + seasonal regression,0.0634,-0.0247,11.046
+SKU-008,Naive,0.5393,0.2448,163.8734
+SKU-008,Moving average (4w),0.5026,-0.0287,151.3222
+SKU-008,Exp. smoothing,0.5088,0.0617,151.9812
+SKU-008,Seasonal naive,0.8731,0.1811,268.8668
+SKU-008,Trend + seasonal regression,0.5962,0.3014,180.2068
+SKU-009,Naive,0.188,0.181,10.2347
+SKU-009,Moving average (4w),0.1634,0.1441,8.8188
+SKU-009,Exp. smoothing,0.171,0.1554,9.2392
+SKU-009,Seasonal naive,0.1564,-0.1564,8.5294
+SKU-009,Trend + seasonal regression,0.0526,-0.0323,3.36
+SKU-010,Naive,0.0785,-0.0073,7.5111
+SKU-010,Moving average (4w),0.0822,0.0398,8.1304
+SKU-010,Exp. smoothing,0.0844,0.0527,8.5829
+SKU-010,Seasonal naive,0.089,0.0429,8.3217
+SKU-010,Trend + seasonal regression,0.0684,0.0378,6.5744
+SKU-011,Naive,0.5075,-0.5075,34.4057
+SKU-011,Moving average (4w),0.2544,-0.1587,17.9264
+SKU-011,Exp. smoothing,0.2488,-0.1372,17.2548
+SKU-011,Seasonal naive,0.2832,0.0588,22.1454
+SKU-011,Trend + seasonal regression,0.2377,-0.0645,15.6595
+SKU-012,Naive,0.3742,0.2387,12.9936
+SKU-012,Moving average (4w),0.3839,-0.0903,11.6726
+SKU-012,Exp. smoothing,0.3461,-0.0061,11.4381
+SKU-012,Seasonal naive,0.5129,0.029,16.0494
+SKU-012,Trend + seasonal regression,0.479,-0.2339,13.7518
+SKU-013,Naive,0.504,-0.232,19.0504
+SKU-013,Moving average (4w),0.512,-0.256,19.3482
+SKU-013,Exp. smoothing,0.4946,-0.2039,18.7343
+SKU-013,Seasonal naive,0.552,-0.072,23.775
+SKU-013,Trend + seasonal regression,0.4664,-0.0617,17.3358
+SKU-014,Naive,0.6325,0.6325,25.8054
+SKU-014,Moving average (4w),0.2971,-0.0048,13.3518
+SKU-014,Exp. smoothing,0.415,0.2644,16.2322
+SKU-014,Seasonal naive,0.6563,0.1742,30.62
+SKU-014,Trend + seasonal regression,0.3333,0.0664,14.3993
+SKU-015,Naive,0.9115,0.9115,17.8652
+SKU-015,Moving average (4w),0.4712,0.4469,9.7628
+SKU-015,Exp. smoothing,0.5451,0.5356,11.2341
+SKU-015,Seasonal naive,0.2257,0.0664,4.9582
+SKU-015,Trend + seasonal regression,0.1747,0.086,3.9997
+SKU-016,Naive,0.2119,-0.2119,42.5823
+SKU-016,Moving average (4w),0.1498,-0.1471,31.863
+SKU-016,Exp. smoothing,0.2026,-0.2026,41.0007
+SKU-016,Seasonal naive,0.1206,-0.0621,26.163
+SKU-016,Trend + seasonal regression,0.0888,-0.0255,18.3718
+SKU-017,Naive,0.317,-0.3084,29.2247
+SKU-017,Moving average (4w),0.2006,0.0918,18.0399
+SKU-017,Exp. smoothing,0.1873,0.0408,16.8591
+SKU-017,Seasonal naive,0.175,0.0,16.2327
+SKU-017,Trend + seasonal regression,0.1919,0.0958,17.7091
+SKU-018,Naive,0.5177,0.3901,21.093
+SKU-018,Moving average (4w),0.63,0.5248,24.4562
+SKU-018,Exp. smoothing,0.5725,0.4557,22.6702
+SKU-018,Seasonal naive,0.4634,-0.2979,23.3202
+SKU-018,Trend + seasonal regression,0.3337,0.0172,15.5364
+SKU-019,Naive,0.3423,-0.3423,48.3184
+SKU-019,Moving average (4w),0.3002,-0.3002,42.7685
+SKU-019,Exp. smoothing,0.3355,-0.3355,47.4222
+SKU-019,Seasonal naive,0.1797,-0.1029,29.6943
+SKU-019,Trend + seasonal regression,0.1345,-0.1345,20.3222
+SKU-020,Naive,0.1809,0.13,12.7639
+SKU-020,Moving average (4w),0.148,0.0045,10.5079
+SKU-020,Exp. smoothing,0.142,0.0523,10.9016
+SKU-020,Seasonal naive,0.1719,-0.0374,13.69
+SKU-020,Trend + seasonal regression,0.1564,-0.0134,10.6155
+SKU-021,Naive,0.3361,-0.082,26.5926
+SKU-021,Moving average (4w),0.4044,-0.2828,31.3006
+SKU-021,Exp. smoothing,0.3956,-0.2697,30.8667
+SKU-021,Seasonal naive,0.3921,0.0615,30.2559
+SKU-021,Trend + seasonal regression,0.3323,0.022,26.6486
+SKU-022,Naive,0.3088,0.0898,90.8813
+SKU-022,Moving average (4w),0.3035,-0.1055,91.9258
+SKU-022,Exp. smoothing,0.3035,-0.0852,90.6038
+SKU-022,Seasonal naive,0.4614,-0.2651,131.4788
+SKU-022,Trend + seasonal regression,0.2943,-0.2493,108.0738
+SKU-023,Naive,0.4921,-0.4921,8.2513
+SKU-023,Moving average (4w),0.3228,-0.3016,5.5302
+SKU-023,Exp. smoothing,0.3091,-0.2852,5.3107
+SKU-023,Seasonal naive,0.1905,0.1164,3.6515
+SKU-023,Trend + seasonal regression,0.1795,-0.0995,3.2291
+SKU-024,Naive,0.1404,0.044,47.5614
+SKU-024,Moving average (4w),0.1351,0.0235,46.5996
+SKU-024,Exp. smoothing,0.1326,-0.0077,46.2536
+SKU-024,Seasonal naive,0.2418,-0.043,72.4511
+SKU-024,Trend + seasonal regression,0.1588,-0.0878,49.0546
+SKU-025,Naive,0.0577,0.0385,1.291
+SKU-025,Moving average (4w),0.1106,-0.1058,2.1409
+SKU-025,Exp. smoothing,0.1047,-0.0987,2.0369
+SKU-025,Seasonal naive,0.0817,-0.0433,1.8028
+SKU-025,Trend + seasonal regression,0.0477,0.0145,0.968
+SKU-026,Naive,0.0936,-0.0542,3.9791
+SKU-026,Moving average (4w),0.1182,-0.1133,5.2122
+SKU-026,Exp. smoothing,0.1061,-0.089,4.6411
+SKU-026,Seasonal naive,0.1059,-0.0369,4.1733
+SKU-026,Trend + seasonal regression,0.072,0.0366,2.6817
+SKU-027,Naive,0.2479,-0.2205,14.8127
+SKU-027,Moving average (4w),0.312,0.2872,17.3163
+SKU-027,Exp. smoothing,0.2574,0.2092,14.419
+SKU-027,Seasonal naive,0.1897,0.0051,12.7246
+SKU-027,Trend + seasonal regression,0.1755,0.0508,10.6134
+SKU-028,Naive,0.0208,0.0,0.4082
+SKU-028,Moving average (4w),0.0469,0.0312,0.4787
+SKU-028,Exp. smoothing,0.0306,-0.0118,0.419
+SKU-028,Seasonal naive,0.1562,0.1562,1.5
+SKU-028,Trend + seasonal regression,0.0508,0.0383,0.5251
+SKU-029,Naive,0.0737,-0.0211,2.5495
+SKU-029,Moving average (4w),0.0789,-0.0526,2.9721
+SKU-029,Exp. smoothing,0.0803,-0.0553,3.021
+SKU-029,Seasonal naive,0.0868,-0.0605,3.6171
+SKU-029,Trend + seasonal regression,0.077,-0.0465,2.8255
+SKU-030,Naive,0.4608,-0.4608,39.031
+SKU-030,Moving average (4w),0.3271,-0.3229,28.9122
+SKU-030,Exp. smoothing,0.3457,-0.3452,30.5099
+SKU-030,Seasonal naive,0.1599,-0.1055,15.3758
+SKU-030,Trend + seasonal regression,0.1265,0.0569,13.2019
+SKU-031,Naive,0.0164,-0.0164,0.2887
+SKU-031,Moving average (4w),0.1639,-0.1639,0.878
+SKU-031,Exp. smoothing,0.1545,-0.1545,0.8326
+SKU-031,Seasonal naive,0.0492,0.0492,0.5
+SKU-031,Trend + seasonal regression,0.0569,0.0203,0.3407
+SKU-032,Naive,0.2113,-0.1549,2.6141
+SKU-032,Moving average (4w),0.1972,-0.1338,2.4452
+SKU-032,Exp. smoothing,0.2019,-0.1408,2.4998
+SKU-032,Seasonal naive,0.1972,-0.1831,2.7386
+SKU-032,Trend + seasonal regression,0.1822,-0.0806,2.3788
+SKU-033,Naive,0.1831,0.1831,3.4034
+SKU-033,Moving average (4w),0.0516,0.0,1.0104
+SKU-033,Exp. smoothing,0.0567,0.0292,1.1351
+SKU-033,Seasonal naive,0.0751,-0.0563,1.7795
+SKU-033,Trend + seasonal regression,0.0502,0.011,1.0039
+SKU-034,Naive,0.4456,0.1192,16.5881
+SKU-034,Moving average (4w),0.4534,0.1425,16.7773
+SKU-034,Exp. smoothing,0.4274,0.0645,16.2721
+SKU-034,Seasonal naive,0.8264,0.2098,34.0012
+SKU-034,Trend + seasonal regression,0.4002,-0.1732,16.0825
+SKU-035,Naive,0.2878,0.158,32.1857
+SKU-035,Moving average (4w),0.2771,0.0939,29.703
+SKU-035,Exp. smoothing,0.2691,0.046,28.607
+SKU-035,Seasonal naive,0.2835,-0.1571,32.7236
+SKU-035,Trend + seasonal regression,0.2599,-0.108,30.6262
+SKU-036,Naive,0.0586,-0.0541,2.7386
+SKU-036,Moving average (4w),0.0552,-0.0473,2.5617
+SKU-036,Exp. smoothing,0.045,-0.0244,2.0775
+SKU-036,Seasonal naive,0.0676,-0.027,3.0277
+SKU-036,Trend + seasonal regression,0.0659,-0.0332,2.9184
+SKU-037,Naive,0.0904,0.0845,9.0139
+SKU-037,Moving average (4w),0.0811,0.07,8.0429
+SKU-037,Exp. smoothing,0.0921,0.0871,9.1919
+SKU-037,Seasonal naive,0.0836,-0.0233,8.7655
+SKU-037,Trend + seasonal regression,0.0463,-0.0095,4.8269
+SKU-038,Naive,0.4885,0.4885,27.8553
+SKU-038,Moving average (4w),0.415,0.415,24.0676
+SKU-038,Exp. smoothing,0.5019,0.5019,28.5507
+SKU-038,Seasonal naive,0.2129,0.1087,14.344
+SKU-038,Trend + seasonal regression,0.1965,0.1965,12.1464
+SKU-039,Naive,0.517,-0.3684,16.6158
+SKU-039,Moving average (4w),0.4241,-0.1269,13.7629
+SKU-039,Exp. smoothing,0.4139,-0.0843,13.5236
+SKU-039,Seasonal naive,0.5975,0.3127,19.6956
+SKU-039,Trend + seasonal regression,0.4435,0.2483,14.027
+SKU-040,Naive,0.4153,-0.4063,29.0502
+SKU-040,Moving average (4w),0.2534,-0.1454,19.9812
+SKU-040,Exp. smoothing,0.3198,-0.272,23.7161
+SKU-040,Seasonal naive,0.2459,-0.078,17.4452
+SKU-040,Trend + seasonal regression,0.244,-0.0807,18.685
